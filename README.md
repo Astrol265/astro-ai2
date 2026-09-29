@@ -26,7 +26,7 @@ Google provides a Free Tier for eligible Gemini API models, but it has usage lim
    `npm install`
 5. Start:
    `npm start`
-6. Open the app through the server URL. Do NOT open `public/index.html` directly because the `/api/*` backend must be running.
+6. Open the app through the server URL. Do NOT open `index.html` directly because the `/api/*` backend must be running.
 
 ## iPhone
 Microphone access normally requires HTTPS when hosted online. Add the hosted app to the iPhone Home Screen for a more app-like experience.
